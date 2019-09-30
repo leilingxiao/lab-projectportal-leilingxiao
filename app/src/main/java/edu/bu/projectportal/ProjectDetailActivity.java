@@ -35,6 +35,7 @@ public class ProjectDetailActivity extends AppCompatActivity {
         transaction.commit();
 
 
+
     }
 
     public void onClick(View view){
