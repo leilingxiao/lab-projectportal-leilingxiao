@@ -48,7 +48,7 @@
         android:text="www.youtube.com" />
 
     <TextView
-        android:id="@+id/link"
+        android:id="@+id/link2"
         android:autoLink="all"
         android:clickable="true"
         android:layout_width="wrap_content"
